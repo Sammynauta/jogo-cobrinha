@@ -1,7 +1,7 @@
 ### Jogo-Cobrinha
 Jogo da cobrinha feito com HTML,CSS e JAVASCRIPT. (Treinando os conhecimentos JAVASCRIPT).
 
-#Alteraçoes
+# Alteraçoes
 adição de um pontuaçao(score) no jogo e alteração no design da cobra.
 
 <img src="img/snakegame.png">
@@ -37,6 +37,6 @@ PROJETO SNAKE GAME!
 ## Start Dev Environment for VSCode
 
 1. Open project folder in `VSCode`
-2. Install `Live Server` and `Live Sass Compiler` extension
+2. Install `Live Server`
 3. Right click `index.html` > `Open with Live Server`
 4. Access the **generated address** in your browser 🚀
