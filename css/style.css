@@ -1,0 +1,25 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: linear-gradient(to right, green , yellow);
+}
+
+h2 {
+    font-family: monospace;
+}
+img{
+    height: 25px;
+    width: 25px;
+}
+footer {
+    padding: 1rem;
+    margin: 0.2rem;
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 0.9rem;
+}
